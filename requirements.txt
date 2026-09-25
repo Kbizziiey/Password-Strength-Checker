@@ -1,0 +1,9 @@
+# This project intentionally uses only the Python standard library
+# (re, string, getpass, unittest) — no external dependencies are
+# required to run or test it.
+#
+# This file is included for completeness / convention, since most
+# Python projects have one. If you later add a dependency, list it
+# here, e.g.:
+#
+# some-package==1.2.3
