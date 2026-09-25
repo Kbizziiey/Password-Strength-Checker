@@ -1,3 +1,5 @@
+WTC-5FMDJFCC
+
 # Password Strength Checker
 
 A command-line tool that evaluates password strength locally and explains
